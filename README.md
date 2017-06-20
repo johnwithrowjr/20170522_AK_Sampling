@@ -1,5 +1,5 @@
 
-# Alaska IDS Inference Preprocessing
+# Alaska Inference Preprocessing
 
 ## Executive Summary
 
